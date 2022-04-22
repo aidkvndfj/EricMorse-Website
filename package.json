@@ -1,0 +1,6 @@
+{
+    "name": "EricMorse-Website",
+    "version": "0.0.1",
+    "description": "Little side projects",
+    "main": "server.js"
+}
